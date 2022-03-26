@@ -7,7 +7,7 @@ import { Texture, TextureLoader } from 'three'
 //Loader
 const textureLoader = new THREE.TextureLoader()
 
-const normaltexture = textureLoader.load('/textures/normal_map-defaults.jpg')
+const normaltexture = textureLoader.load('/textures/images.jpeg')
 
 // Debug
 const gui = new dat.GUI()
